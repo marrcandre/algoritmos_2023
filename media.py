@@ -6,5 +6,7 @@ p2 = float(input("Nota 2: "))
 
 media = (p1 + p2) / 2
 
-print(f"A média é {media}")
 
+print(f"Nota 1: {p1}")
+print(f"Nota 2: {p2}")
+print(f"A média é {media}")
